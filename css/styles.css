@@ -52,6 +52,9 @@ img {
 }
 
 @media screen and (min-width: 700px) and (max-width: 10000px) {
-
+  body {
+    background-color: #7b555c;
+    color: white;
+  }
 
 }
